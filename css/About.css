@@ -1,0 +1,159 @@
+.nav-bar{
+    background-color:rgb(231, 231, 241);
+    height: 200px;
+    width: 1295px;
+    
+}
+
+
+a{ 
+    color:rgb(194, 186, 209);
+
+}
+
+
+a:hover{
+    background-color:white;
+  
+
+}
+.logo{
+    height: 200px;
+    width:200px;
+    position: absolute;
+    top:90px;
+    left: 550px;
+    border-radius: 30%;
+    
+}
+
+
+
+.sunset {
+   height: 800px;
+   width: 1300px;
+   margin-top:300px;
+   top: 60px;
+   position: absolute;
+    
+
+   
+}
+
+
+.banner{
+    height: 800px;
+    width: 1300px;
+    margin:80px;
+    margin-right: 800px;
+    float: right;
+    }
+
+
+
+li{
+    
+    background-color: rgb(98, 122, 228);
+    border-color:none;
+    height: 40px;
+    width:150px;
+    float:right;
+    position: absolute;
+    top:800px;
+    left: 570px;
+   
+        
+}
+
+
+.button{
+    background-color: rgb(98, 122, 228);
+    border-color:none;
+    height: 40px;
+    width:150px;
+    float:right;
+    position: absolute;
+    top:800px;
+    left: 570px;
+   
+        
+}
+
+.main{
+    position: absolute;
+    margin-left:800px;
+   white-space: pre;
+   color:#e7e7f1;
+   font-size: 30px;
+   font-family: 'Playfair Display', serif;
+   font-family: 'Prata', serif;
+   font-family: 'Monoton', cursive;
+   font-family: 'Tangerine', cursive;
+   font-family: 'Coming Soon', cursive;
+}
+
+     
+
+ 
+
+
+
+
+/* Style the tab buttons */
+.tablink{
+    background-color:  rgb(115, 94, 173);
+    color: rgb(115, 94, 173);
+    float: left;
+    border: none;
+    outline-color:none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 14px;
+    width: 25%;
+}
+  
+  /* Change background color of buttons on hover */
+  .tablink:hover {
+    background-color:white;
+    color:white;
+  }
+  
+  /* Set default styles for tab content */
+  .tabcontent {
+    color:white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+  }
+  
+ /* Style each tab content individually */ 
+  #home {background-color:red;}
+  #contact{background-color:green;}
+  #about {background-color:blue;}
+  #contact {background-color:orange;}
+
+
+
+  
+header{
+    height:150px;
+    background-color:rgb(115, 94, 173);
+    width:1295px;
+}
+
+
+
+
+.img{
+    padding:70px;
+    height:325px;
+}
+
+.social{
+    background-color:white;
+    display: inline-block;
+    margin:30px;
+   
+  
+
+}
