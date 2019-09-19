@@ -30,25 +30,22 @@ a:hover{
 
 
 .sunset {
-   height: 800px;
+   height: 700px;
    width: 1300px;
    margin-top:300px;
    top: 60px;
    position: absolute;
    
-    
-
-   
 }
 
 
 .banner{
-    height: 800px;
+    height: 600px;
     width: 1300px;
     margin:80px;
     margin-right: 550px;
     float: right;
-    border-block-end-style: ridge;
+   
     }
 
 
@@ -202,3 +199,15 @@ header{
 }
 
 
+.social{
+    position:relative;
+    background-color:black;
+    display: inline-block;
+    margin:30px;
+    bottom:-100px;
+}
+
+.container2{
+    background-color:black;
+    height:100px;
+    width:1300px;}

@@ -1,3 +1,4 @@
+
 .nav-bar{
     background-color:rgb(231, 231, 241);
     height: 200px;
@@ -29,28 +30,6 @@ a:hover{
 
 
 
-.sunset {
-   height: 800px;
-   width: 1300px;
-   margin-top:300px;
-   top: 60px;
-   position: absolute;
-    
-
-   
-}
-
-
-.banner{
-    height: 800px;
-    width: 1300px;
-    margin:80px;
-    margin-right: 800px;
-    float: right;
-    }
-
-
-
 li{
     
     background-color: rgb(98, 122, 228);
@@ -79,26 +58,6 @@ li{
         
 }
 
-.main{
-    position: absolute;
-    margin-left:800px;
-   white-space: pre;
-   color:#e7e7f1;
-   font-size: 30px;
-   font-family: 'Playfair Display', serif;
-   font-family: 'Prata', serif;
-   font-family: 'Monoton', cursive;
-   font-family: 'Tangerine', cursive;
-   font-family: 'Coming Soon', cursive;
-}
-
-     
-
- 
-
-
-
-
 /* Style the tab buttons */
 .tablink{
     background-color:  rgb(115, 94, 173);
@@ -125,12 +84,6 @@ li{
     padding: 50px;
     text-align: center;
   }
-  
- /* Style each tab content individually */ 
-  #home {background-color:red;}
-  #contact{background-color:green;}
-  #about {background-color:blue;}
-  #contact {background-color:orange;}
 
 
 
@@ -143,17 +96,106 @@ header{
 
 
 
-
-.img{
-    padding:70px;
-    height:325px;
-}
-
-.social{
-    background-color:white;
-    display: inline-block;
-    margin:30px;
-   
+.fam{
   
+    height:390px;
+    width:200px;
+    float:right;
+    margin:40px;
+    
+    
 
 }
+
+.fam1{
+    color:white;
+    margin:70px;
+    left:180px;
+    font-size: 50px;
+    font-family: 'Tangerine', cursive;
+    position: relative;
+    
+}
+
+.box{
+    
+    background-color: black;
+    height:400px;
+    width:1295px;
+    margin-top:-260px;
+    
+  
+}
+
+.fam2{
+    height:390px;
+    width:200px;
+    margin:50px;
+    margin-top:-0px;
+   
+}
+
+.famtwo{
+    position:absolute;
+    left:320px;
+    margin:100px;
+    font-size:50px;
+    font-family: 'Tangerine', cursive;
+    }
+
+    .three{
+
+    height:390px;
+    width:200px;
+    right:200px;
+    margin:-200px;
+    float:right;
+    position:relative;
+
+
+    }
+
+    .fam3{
+        position: absolute;
+        margin:160px;
+        right:200px;
+        color:white;
+        font-size: 50px;
+        font-family: 'Tangerine', cursive;}
+
+    .four{
+        height:390px;
+        width:200px;
+        left:20px;
+        position:relative;
+    
+
+    }
+
+    .famfour{
+        position:absolute;
+        left:300px;
+        top:1700px;
+        color:black;
+        font-size:40px;
+        font-family: 'Tangerine', cursive;
+            
+    }
+.container1{
+        height:100px;
+        width:1290px;
+        background-color:black;
+           
+
+}
+        .social{
+            background-color:black;
+            display: inline-block;
+           }
+        
+    .box2{
+        background-color: black;
+        height:400px;
+        width:1880px;
+       
+    }
